@@ -29,7 +29,7 @@ Developed as part of the Coop requirements, emphasizing secure coding practices 
 ```bash
 # Clone with security considerations
 git clone https://github.com/Mangesh-Bhattacharya/web-vuln-scan
-cd web-vuln-scanner
+cd web-vuln-scan
 ```
 # Create an isolated environment
 ```
