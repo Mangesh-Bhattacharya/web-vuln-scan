@@ -56,10 +56,10 @@ python scanner.py \
 
 | Vulnerability Type       | Test Cases | Detection Rate | Visual Indicator       |
 |--------------------------|------------|----------------|------------------------|
-| **SQL Injection**        | 27/30      | 90%            | ██████████▊ (90%)      |
-| **XSS**                  | 25/30      | 83.3%          | █████████▋ (83%)       |
+| **SQL Injection**        | 27/30      | 90%            | ███████████▌ (90%)      |
+| **XSS**                  | 25/30      | 83.3%          | ██████████▌ (83%)       |
 | **Directory Traversal**  | 22/30      | 73.3%          | ███████▌ (73%)         |
-| **Sensitive Files**      | 28/30      | 93.3%          | ██████████▉ (93%)      |
+| **Sensitive Files**      | 28/30      | 93.3%          | ███████████▌ (93%)      |
 | **False Positive Rate**  | 2.8%       | -              | █▌ (2.8%)              |
 
 *Tested against OWASP Juice Shop (v15.1.0) and DVWA (v1.10)*
